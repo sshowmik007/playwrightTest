@@ -1,0 +1,95 @@
+2023-09-07T06:41:54.148Z pw:api taking page screenshot
+2023-09-07T06:41:54.260Z pw:api navigating to "https://demo.playwright.dev/todomvc/#/", waiting until "load"
+2023-09-07T06:41:54.470Z pw:api   "commit" event fired
+2023-09-07T06:41:54.471Z pw:api   navigated to "https://demo.playwright.dev/todomvc/#/"
+2023-09-07T06:41:54.720Z pw:api   "load" event fired
+2023-09-07T06:41:54.721Z pw:api   "domcontentloaded" event fired
+2023-09-07T06:41:54.730Z pw:api waiting for GetByPlaceholder("What needs to be done?")
+2023-09-07T06:41:54.748Z pw:api   locator resolved to <input class="new-todo" placeholder="What needs to be dΓÇª/>
+2023-09-07T06:41:54.750Z pw:api attempting click action
+2023-09-07T06:41:54.750Z pw:api   waiting for element to be visible, enabled and stable
+2023-09-07T06:41:54.812Z pw:api   element is visible, enabled and stable
+2023-09-07T06:41:54.812Z pw:api   scrolling into view if needed
+2023-09-07T06:41:54.813Z pw:api   done scrolling
+2023-09-07T06:41:54.816Z pw:api   performing click action
+2023-09-07T06:41:54.821Z pw:api   click action done
+2023-09-07T06:41:54.821Z pw:api   waiting for scheduled navigations to finish
+2023-09-07T06:41:54.821Z pw:api   navigations have finished
+2023-09-07T06:41:54.823Z pw:api waiting for GetByPlaceholder("What needs to be done?")
+2023-09-07T06:41:54.826Z pw:api   locator resolved to <input class="new-todo" placeholder="What needs to be dΓÇª/>
+2023-09-07T06:41:54.827Z pw:api elementHandle.fill("open vs code")
+2023-09-07T06:41:54.827Z pw:api   waiting for element to be visible, enabled and editable
+2023-09-07T06:41:54.830Z pw:api   element is visible, enabled and editable
+2023-09-07T06:41:54.835Z pw:api waiting for GetByPlaceholder("What needs to be done?")
+2023-09-07T06:41:54.836Z pw:api   locator resolved to <input class="new-todo" placeholder="What needs to be dΓÇª/>
+2023-09-07T06:41:54.837Z pw:api elementHandle.press("Enter")
+2023-09-07T06:41:54.856Z pw:api waiting for GetByPlaceholder("What needs to be done?")
+2023-09-07T06:41:54.859Z pw:api   locator resolved to <input class="new-todo" placeholder="What needs to be dΓÇª/>
+2023-09-07T06:41:54.860Z pw:api elementHandle.fill("start new test")
+2023-09-07T06:41:54.861Z pw:api   waiting for element to be visible, enabled and editable
+2023-09-07T06:41:54.864Z pw:api   element is visible, enabled and editable
+2023-09-07T06:41:54.870Z pw:api waiting for GetByPlaceholder("What needs to be done?")
+2023-09-07T06:41:54.873Z pw:api   locator resolved to <input class="new-todo" placeholder="What needs to be dΓÇª/>
+2023-09-07T06:41:54.873Z pw:api elementHandle.press("Enter")
+2023-09-07T06:41:54.881Z pw:api waiting for GetByPlaceholder("What needs to be done?")
+2023-09-07T06:41:54.886Z pw:api   locator resolved to <input class="new-todo" placeholder="What needs to be dΓÇª/>
+2023-09-07T06:41:54.887Z pw:api elementHandle.fill("add new test")
+2023-09-07T06:41:54.887Z pw:api   waiting for element to be visible, enabled and editable
+2023-09-07T06:41:54.891Z pw:api   element is visible, enabled and editable
+2023-09-07T06:41:54.899Z pw:api waiting for GetByPlaceholder("What needs to be done?")
+2023-09-07T06:41:54.901Z pw:api   locator resolved to <input class="new-todo" placeholder="What needs to be dΓÇª/>
+2023-09-07T06:41:54.902Z pw:api elementHandle.press("Enter")
+2023-09-07T06:41:54.909Z pw:api waiting for GetByPlaceholder("What needs to be done?")
+2023-09-07T06:41:54.912Z pw:api   locator resolved to <input class="new-todo" placeholder="What needs to be dΓÇª/>
+2023-09-07T06:41:54.913Z pw:api elementHandle.fill("use codeGen")
+2023-09-07T06:41:54.913Z pw:api   waiting for element to be visible, enabled and editable
+2023-09-07T06:41:54.918Z pw:api   element is visible, enabled and editable
+2023-09-07T06:41:54.922Z pw:api waiting for GetByPlaceholder("What needs to be done?")
+2023-09-07T06:41:54.924Z pw:api   locator resolved to <input class="new-todo" placeholder="What needs to be dΓÇª/>
+2023-09-07T06:41:54.926Z pw:api elementHandle.press("Enter")
+2023-09-07T06:41:54.934Z pw:api waiting for Locator("li").Filter(new() { HasText = "use codeGen" }).GetByLabel("Toggle Todo")
+2023-09-07T06:41:54.937Z pw:api   locator resolved to <input class="toggle" type="checkbox" aria-label="TogglΓÇª/>
+2023-09-07T06:41:54.939Z pw:api attempting click action
+2023-09-07T06:41:54.939Z pw:api   waiting for element to be visible, enabled and stable
+2023-09-07T06:41:54.960Z pw:api   element is visible, enabled and stable
+2023-09-07T06:41:54.960Z pw:api   scrolling into view if needed
+2023-09-07T06:41:54.960Z pw:api   done scrolling
+2023-09-07T06:41:54.963Z pw:api   performing click action
+2023-09-07T06:41:54.969Z pw:api   click action done
+2023-09-07T06:41:54.969Z pw:api   waiting for scheduled navigations to finish
+2023-09-07T06:41:54.969Z pw:api   navigations have finished
+2023-09-07T06:41:54.972Z pw:api waiting for Locator("li").Filter(new() { HasText = "add new test" }).GetByLabel("Toggle Todo")
+2023-09-07T06:41:54.974Z pw:api   locator resolved to <input class="toggle" type="checkbox" aria-label="TogglΓÇª/>
+2023-09-07T06:41:54.978Z pw:api attempting click action
+2023-09-07T06:41:54.978Z pw:api   waiting for element to be visible, enabled and stable
+2023-09-07T06:41:55.012Z pw:api   element is visible, enabled and stable
+2023-09-07T06:41:55.012Z pw:api   scrolling into view if needed
+2023-09-07T06:41:55.013Z pw:api   done scrolling
+2023-09-07T06:41:55.015Z pw:api   performing click action
+2023-09-07T06:41:55.018Z pw:api   click action done
+2023-09-07T06:41:55.018Z pw:api   waiting for scheduled navigations to finish
+2023-09-07T06:41:55.018Z pw:api   navigations have finished
+2023-09-07T06:41:55.022Z pw:api waiting for GetByRole(AriaRole.Link, new() { Name = "Completed" })
+2023-09-07T06:41:55.028Z pw:api   locator resolved to <a class="" href="#/completed">Completed</a>
+2023-09-07T06:41:55.029Z pw:api attempting click action
+2023-09-07T06:41:55.029Z pw:api   waiting for element to be visible, enabled and stable
+2023-09-07T06:41:55.061Z pw:api   element is visible, enabled and stable
+2023-09-07T06:41:55.061Z pw:api   scrolling into view if needed
+2023-09-07T06:41:55.062Z pw:api   done scrolling
+2023-09-07T06:41:55.063Z pw:api   performing click action
+2023-09-07T06:41:55.075Z pw:api   navigated to "https://demo.playwright.dev/todomvc/#/completed"
+2023-09-07T06:41:55.078Z pw:api   click action done
+2023-09-07T06:41:55.078Z pw:api   waiting for scheduled navigations to finish
+2023-09-07T06:41:55.079Z pw:api   navigations have finished
+2023-09-07T06:41:55.081Z pw:api waiting for GetByRole(AriaRole.Button, new() { Name = "Clear completed" })
+2023-09-07T06:41:55.087Z pw:api   locator resolved to <button class="clear-completed">Clear completed</button>
+2023-09-07T06:41:55.092Z pw:api attempting click action
+2023-09-07T06:41:55.092Z pw:api   waiting for element to be visible, enabled and stable
+2023-09-07T06:41:55.128Z pw:api   element is visible, enabled and stable
+2023-09-07T06:41:55.128Z pw:api   scrolling into view if needed
+2023-09-07T06:41:55.129Z pw:api   done scrolling
+2023-09-07T06:41:55.131Z pw:api   performing click action
+2023-09-07T06:41:55.135Z pw:api   click action done
+2023-09-07T06:41:55.135Z pw:api   waiting for scheduled navigations to finish
+2023-09-07T06:41:55.135Z pw:api   navigations have finished
+2023-09-07T06:41:55.160Z pw:api   "networkidle" event fired
